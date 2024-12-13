@@ -3,6 +3,8 @@
 
 Welcome to the GitHub repository for my final project in Embedded Systems, utilizing the Texas Instruments TM4C123GH6PM microcontroller alongside predefined open-source software.
 
+![image](https://github.com/user-attachments/assets/5afc032c-d7c0-409e-bcf5-7d503821ae54)
+
 ---
 
 
@@ -16,7 +18,7 @@ Welcome to the GitHub repository for my final project in Embedded Systems, utili
 
 ## **Problem and Purpose**
 
-This project began with a flash drive containing a partially implemented project riddled with errors and dead ends. Our objective: transform "Project 1.0" into a robust, optimized solution while collaborating as a team. 
+This project was handed to us in the form of a flashdrive by our professor with a handful of errors and dead ends. The objective is to take the Project that we were given "Project 1.0" and make it into something substantially better and optimal while working with a team. 
 
 **Challenges Identified:**
 - The project wouldn’t load in KEIL IDE or onto the TM4C.
@@ -61,6 +63,8 @@ I took initiative to work through these challenges systematically, addressing is
 3. **Visual Output:**  
    Used the **Nokia5110** display to indicate the system state. The images were created using a 48x84 pixel matrix.
 
+4. **PCB and Schematic Production:**  
+   Used LTSpice for the electronic drawings and the PCB schematics
 
 
 
